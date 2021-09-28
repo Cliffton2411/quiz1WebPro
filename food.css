@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header {
+    width: 100%;
+    height: 70px;
+    background-color: #9A1750;
+}
+.headerButton{
+    width: 100px;
+    background-color: #5D001E;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /* color: #FC4445; */
+    color: whitesmoke;
+    /* border: 5px solid #FC4445; */
+}
+.body{
+    width: 100%;
+    height: 1000px;
+    background-color: #EE4C7C ;
+    padding-left: 10px;
+    color: whitesmoke;
+}
+.footer{
+    width: 100%;
+    height: 70px;
+    background-color: #9A1750;
+}
